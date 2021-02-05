@@ -1,4 +1,4 @@
-<h2> Hey there! Myself Krati. <img src="https://github.com/iamkrati22/iamkrati22blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! Myself Krati. <img src="http://gph.is/2uGMaXr" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/iamkrati22/iamkrati22/master/gif3.gif" width="500"/>
 
 <h3> 🏻‍💻 About Me </h3>
