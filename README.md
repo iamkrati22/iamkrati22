@@ -1,5 +1,5 @@
-<h2> Hey there! Myself Krati.👋h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="500"/>
+<h2> Hey there! Myself Krati.👋</h2>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="400"/>
 
 <h3> 🏻‍💻 About Me </h3>
 
