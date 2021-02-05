@@ -1,7 +1,7 @@
 <h2> Hey there! Myself Krati.👋</h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width="400"/>
 
-<h3> 🏻‍💻 About Me </h3>
+<h3> 💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Web Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
