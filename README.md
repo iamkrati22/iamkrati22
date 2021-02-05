@@ -1,5 +1,5 @@
-<h2> Hey there! Myself Krati. <img src="http://gph.is/2uGMaXr" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/iamkrati22/iamkrati22/master/gif3.gif" width="500"/>
+<h2> Hey there! Myself Krati. <img src="👋" width="25"></h2>
+<img align="right" alt="GIF" src="http://gph.is/2uGMaXr" width="500"/>
 
 <h3> 🏻‍💻 About Me </h3>
 
