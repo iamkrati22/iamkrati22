@@ -23,14 +23,14 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/iamkrati22/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkrati22&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/iamkrati22/github-readme-stats)
 
 
 
 
 ### 📫🤝🏻 Connect with Me
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/iamkrati22/)🏻‍💻
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/iamkrati22/)💻
  - Shoot Me an [Email](mailto:iamkrati22@gmail.com) 💌
  - [GitHub Profile Summary](https://profile-summary-for-github.com/user/iamkrati22)
 
