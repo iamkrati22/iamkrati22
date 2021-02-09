@@ -12,9 +12,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python| Java | C 
-- 🌐 &nbsp;  flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MongoDB
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code |Git
 
 
 <br>
